@@ -1,0 +1,7 @@
+project_id = "bvbcufvlkabolrlzsway"
+
+[functions.generate-questions]
+verify_jwt = false
+
+[functions.analyze-results]
+verify_jwt = false
